@@ -1,4 +1,4 @@
-# Retail Sales Analytics using SQL
+# Retail Sales Strategy Analysis: Uncovering Revenue Risks and Customer Retention Opportunities
 
 An end-to-end SQL analytics project exploring retail sales performance, customer behavior, and product insights using Microsoft SQL Server.
 
