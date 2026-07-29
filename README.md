@@ -1,62 +1,17 @@
 # Retail Sales Strategy Analysis: Uncovering Revenue Risks and Customer Retention Opportunities
 
-An end-to-end SQL analytics project exploring retail sales performance, customer behavior, and product insights using Microsoft SQL Server.
-
-**Skills Demonstrated:** SQL • Data Analysis • Data Warehousing • Window Functions • Common Table Expressions (CTEs) • Business Reporting • SQL Server
-
----
-
-## Objective
-
-To explore a retail sales data warehouse using SQL and generate actionable business insights through exploratory and advanced analytical techniques.
-
----
 
 ## Project Background
 
-This project analyzes a simulated retail sales data warehouse for a bicycle and accessories company operating across six countries. The dataset follows a **Star Schema** consisting of one fact table (`gold.fact_sales`) and two dimension tables (`gold.dim_customers` and `gold.dim_products`).
-
-The project is divided into two sequential phases. It begins with Exploratory Data Analysis (EDA) to understand the data and validate its quality, followed by Advanced Analysis to answer business questions, identify trends, segment customers and products, and build reusable reporting views.
+This project analyzes a retail business selling Bikes, Accessories, and Clothing across six developed markets including the United States and Australia. Despite operating across multiple categories and geographies, the business faces two critical strategic risks — extreme revenue concentration in a single product category and weak customer retention. This analysis was conducted to help the business decide whether to diversify revenue across categories and how to improve customer retention before these risks impact long term growth.
 
 ---
 
-## Project Structure
+## Business decisions
 
-### Phase 1 — Exploratory Data Analysis (EDA)
-
-The first phase focuses on understanding the dataset through:
-
-- Database exploration
-- Data quality checks
-- Dimension exploration
-- Measure exploration
-- Magnitude analysis
-- Ranking analysis
-- Headline KPI calculation
-
-### Phase 2 — Advanced Analysis
-
-The second phase answers key business questions using advanced SQL techniques through:
-
-- Change over time analysis
-- Cumulative analysis
-- Year-over-year product performance
-- Part-to-whole analysis
-- Customer segmentation
-- Product segmentation
-- Customer Report
-- Product Report
-
----
-
-## Key Business Questions Answered
-
-- How has sales performance changed over time?
 - Which product categories contribute the most revenue?
 - Which products are the highest and lowest performers?
-- Which countries have the highest customer concentration?
 - How are customers segmented based on purchasing behavior?
-- How are products segmented based on revenue and cost?
 - What is the average order value and monthly customer spending?
 - What percentage does each product category contribute to total revenue?
 
@@ -106,7 +61,40 @@ Average selling price decreased from **$3,101** in 2010 to **$1,668** in 2014, p
 
 ---
 
-## Technical Skills Demonstrated
+## Appendix
+
+### Project Structure
+
+#### Phase 1 — Exploratory Data Analysis (EDA)
+
+The first phase focuses on understanding the dataset through:
+
+- Database exploration
+- Data quality checks
+- Dimension exploration
+- Measure exploration
+- Magnitude analysis
+- Ranking analysis
+- Headline KPI calculation
+
+#### Phase 2 — Advanced Analysis
+
+The second phase answers key business questions using advanced SQL techniques through:
+
+- Change over time analysis
+- Cumulative analysis
+- Year-over-year product performance
+- Part-to-whole analysis
+- Customer segmentation
+- Product segmentation
+- Customer Report
+- Product Report
+
+---
+
+
+
+### Technical Skills Demonstrated
 
 - Window Functions (`SUM`, `AVG`, `LAG`, `OVER`, `PARTITION BY`)
 - Common Table Expressions (CTEs)
@@ -122,7 +110,7 @@ Average selling price decreased from **$3,101** in 2010 to **$1,668** in 2014, p
 
 ---
 
-## Tools & Technologies
+### Tools & Technologies
 
 - Microsoft SQL Server
 - SQL Server Management Studio (SSMS)
@@ -131,7 +119,7 @@ Average selling price decreased from **$3,101** in 2010 to **$1,668** in 2014, p
 
 ---
 
-## Database Schema
+### Database Schema
 
 The project follows a **Star Schema** consisting of one fact table and two dimension tables.
 
@@ -143,9 +131,9 @@ The project follows a **Star Schema** consisting of one fact table and two dimen
 
 ---
 
-## Reporting Views
+### Reporting Views
 
-### Customer Report
+#### Customer Report
 
 The Customer Report provides a consolidated view of customer purchasing behavior, revenue contribution, order frequency, customer segmentation, and key customer metrics.
 
@@ -153,7 +141,7 @@ The Customer Report provides a consolidated view of customer purchasing behavior
 
 ---
 
-### Product Report
+#### Product Report
 
 The Product Report provides a consolidated view of product performance, revenue contribution, pricing metrics, product segmentation, and sales trends.
 
