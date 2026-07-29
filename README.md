@@ -9,11 +9,10 @@ This project analyzes a retail business selling Bikes, Accessories, and Clothing
 
 ## Business decisions
 
-- Which product categories contribute the most revenue?
+- Which product categories contribute the most revenue and what percentage?
 - Which products are the highest and lowest performers?
-- How are customers segmented based on purchasing behavior?
+- The marketing team needs to understand how customers are distributed across VIP, Regular, and New segments — because without this insight they will default to sending the same marketing to everyone, risking losing high value VIP customers who expect personalized engagement and represent a disproportionate share of revenue.
 - What is the average order value and monthly customer spending?
-- What percentage does each product category contribute to total revenue?
 
 ---
 
