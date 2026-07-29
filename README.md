@@ -139,7 +139,6 @@ The Customer Report provides a consolidated view of customer purchasing behavior
 
 ![Customer Report](images/customer_report.png)
 
----
 
 #### Product Report
 
