@@ -3,7 +3,7 @@
 
 ## Project Background
 
-This project analyzes a retail business selling Bikes, Accessories, and Clothing across six developed markets including the United States and Australia. Despite operating across multiple categories and geographies, the business faces two critical strategic risks — extreme revenue concentration in a single product category and weak customer retention. This analysis was conducted to help the business decide whether to diversify revenue across categories and how to improve customer retention before these risks impact long term growth.
+This project analyzes a retail business selling Bikes, Accessories, and Clothing across six developed markets including the United States and Australia. Despite operating across multiple categories and geographies, the business faces two critical strategic risks:  extreme revenue concentration in a single product category and weak customer retention. This analysis was conducted to help the business decide whether to diversify revenue across categories and how to improve customer retention before these risks impact long term growth.
 
 ---
 
@@ -11,7 +11,7 @@ This project analyzes a retail business selling Bikes, Accessories, and Clothing
 
 - Which product categories contribute the most revenue and what percentage?
 - Which products are the highest and lowest performers?
-- The marketing team needs to understand how customers are distributed across VIP, Regular, and New segments — because without this insight they will default to sending the same marketing to everyone, risking losing high value VIP customers who expect personalized engagement and represent a disproportionate share of revenue.
+- The marketing team needs to understand how customers are distributed across VIP, Regular, and New segments:  because without this insight they will default to sending the same marketing to everyone, risking losing high value VIP customers who expect personalized engagement and represent a disproportionate share of revenue.
 - What is the average order value and monthly customer spending?
 
 ---
@@ -20,38 +20,38 @@ This project analyzes a retail business selling Bikes, Accessories, and Clothing
 
 ### 1. Bikes dominate company revenue
 
-Bikes account for 96.46% of total revenue, dwarfing Accessories at 2.39% and Clothing at 1.16%. This likely reflects either a catalog heavily weighted toward Bikes or significantly stronger consumer demand for cycling products in the company's target markets. While Bikes should remain the core focus, this extreme concentration creates existential risk — a single shift in consumer preference, supply chain disruption, or competitive pressure on Bikes could collapse the entire revenue base, making category diversification an urgent strategic priority.
+Bikes account for 96.46% of total revenue, dwarfing Accessories at 2.39% and Clothing at 1.16%. This likely reflects either a catalog heavily weighted toward Bikes or significantly stronger consumer demand for cycling products in the company's target markets. While Bikes should remain the core focus, this extreme concentration creates existential risk: a single shift in consumer preference, supply chain disruption, or competitive pressure on Bikes could collapse the entire revenue base, making category diversification an urgent strategic priority.
 
 ---
 
 ### 2. Mountain-200 is the best-performing product line
 
-All five top revenue-generating products belong to the Mountain-200 family, collectively generating over $6.6M — suggesting that customer demand is concentrated not just in the Bikes category but within a single product line inside that category. This likely reflects strong brand loyalty or superior product-market fit for the Mountain-200 specifically. While this is a significant strength to leverage through targeted marketing and inventory prioritization, it also deepens the concentration risk — if Mountain-200 faces a supply issue or loses competitive edge, the business loses its single biggest revenue driver overnight.
+All five top revenue-generating products belong to the Mountain-200 family, collectively generating over $6.6M: suggesting that customer demand is concentrated not just in the Bikes category but within a single product line inside that category. This likely reflects strong brand loyalty or superior product-market fit for the Mountain-200 specifically. While this is a significant strength to leverage through targeted marketing and inventory prioritization, it also deepens the concentration risk: if Mountain-200 faces a supply issue or loses competitive edge, the business loses its single biggest revenue driver overnight.
 
 ---
 
 ### 3. The United States is the largest market
 
-The United States accounts for 7,482 customers — 40% of the total base — more than double Australia's 3,591, revealing heavy geographic concentration in a single market. This likely reflects where the company's early marketing efforts were focused rather than an inherent limitation of other markets. While the US should remain a priority, over-dependence on one geography creates vulnerability to local economic downturns, regulatory changes, or tariffs — making measured investment in underpenetrated markets like Germany and Canada a logical risk mitigation strategy.
+The United States accounts for 7,482 customers — 40% of the total base: more than double Australia's 3,591, revealing heavy geographic concentration in a single market. This likely reflects where the company's early marketing efforts were focused rather than an inherent limitation of other markets. While the US should remain a priority, over-dependence on one geography creates vulnerability to local economic downturns, regulatory changes, or tariffs — making measured investment in underpenetrated markets like Germany and Canada a logical risk mitigation strategy.
 
 ---
 
 ### 4. Customer retention presents a major opportunity
 
-79% of customers are classified as New with less than 12 months of purchase history, while only 9% have reached VIP status — suggesting the business is highly effective at acquiring customers but struggles to retain them. This pattern likely reflects the nature of high-value infrequent purchases like Bikes, where natural repurchase cycles are long. However, VIP customers represent disproportionate revenue potential and losing them to competitors is costly — making a targeted loyalty program for existing customers a higher ROI investment than continued heavy spending on new customer acquisition.
+79% of customers are classified as New with less than 12 months of purchase history, while only 9% have reached VIP status, suggesting the business is highly effective at acquiring customers but struggles to retain them. This pattern likely reflects the nature of high-value infrequent purchases like Bikes, where natural repurchase cycles are long. However, VIP customers represent disproportionate revenue potential and losing them to competitors is costly — making a targeted loyalty program for existing customers a higher ROI investment than continued heavy spending on new customer acquisition.
 
 ---
 
 ### 5. Customers purchase infrequently but spend significantly
 
-With fewer than 1.5 orders per customer on average but an order value exceeding $1,000, the business operates on a high-value low-frequency model. This likely reflects the nature of the product — Bikes are considered purchases, not impulse buys. While this model is sustainable, it means every lost customer represents over $1,000 in immediate lost revenue and potentially thousands more in lifetime value — making even modest improvements in retention disproportionately impactful on total revenue.
+With fewer than 1.5 orders per customer on average but an order value exceeding $1,000, the business operates on a high-value low-frequency model. This likely reflects the nature of the product: Bikes are considered purchases, not impulse buys. While this model is sustainable, it means every lost customer represents over $1,000 in immediate lost revenue and potentially thousands more in lifetime value, making even modest improvements in retention disproportionately impactful on total revenue.
 
 
 ---
 
 ### 7. Average selling price has steadily declined
 
-Average selling price fell from $3,101 in 2010 to $1,668 in 2014 — a 46% decline over four years. This likely reflects a gradual shift in product mix toward lower-priced Bike models, increased promotional discounting to drive volume, or growing competition forcing price reductions. While higher volume at lower prices can sustain revenue short term, sustained price erosion without a corresponding increase in units sold will compress margins — making it critical to understand whether this trend reflects deliberate strategy or unmanaged competitive pressure.
+Average selling price fell from $3,101 in 2010 to $1,668 in 2014, a 46% decline over four years. This likely reflects a gradual shift in product mix toward lower-priced Bike models, increased promotional discounting to drive volume, or growing competition forcing price reductions. While higher volume at lower prices can sustain revenue short term, sustained price erosion without a corresponding increase in units sold will compress margins, making it critical to understand whether this trend reflects deliberate strategy or unmanaged competitive pressure.
 
 ---
 
@@ -70,33 +70,12 @@ Average selling price fell from $3,101 in 2010 to $1,668 in 2014 — a 46% decli
 ### Project Structure
 
 #### Phase 1 — Exploratory Data Analysis (EDA)
-
-The first phase focuses on understanding the dataset through:
-
-- Database exploration
-- Data quality checks
-- Dimension exploration
-- Measure exploration
-- Magnitude analysis
-- Ranking analysis
-- Headline KPI calculation
+Explores the database structure, validates data quality, profiles customer and product dimensions, and calculates headline business metrics to establish a foundational understanding of the data before deeper analysis.
 
 #### Phase 2 — Advanced Analysis
-
-The second phase answers key business questions using advanced SQL techniques through:
-
-- Change over time analysis
-- Cumulative analysis
-- Year-over-year product performance
-- Part-to-whole analysis
-- Customer segmentation
-- Product segmentation
-- Customer Report
-- Product Report
+Builds on the EDA to answer specific business questions through time series analysis, cumulative trends, year-over-year product performance, category contribution, customer and product segmentation, and two comprehensive reporting views — Customer Report and Product Report.
 
 ---
-
-
 
 ### Technical Skills Demonstrated
 
@@ -111,15 +90,15 @@ The second phase answers key business questions using advanced SQL techniques th
 - NULL handling (`ISNULL`, `NULLIF`)
 - Data type casting
 - `UNION ALL` for consolidated reporting
-
+- Data Quality Checks: NULL detection, duplicate identification
 ---
 
 ### Tools & Technologies
 
-- Microsoft SQL Server
-- SQL Server Management Studio (SSMS)
-- Git
-- GitHub
+- Microsoft SQL Server: database engine for all query execution
+- SQL Server Management Studio (SSMS): primary development environment
+- Git: version control
+- GitHub: project hosting and portfolio presentation
 
 ---
 
