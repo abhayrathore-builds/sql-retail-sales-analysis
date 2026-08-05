@@ -110,7 +110,7 @@ The project follows a **Star Schema** consisting of one fact table and two dimen
 - **gold.dim_customers** — Customer demographics and geographic information
 - **gold.dim_products** — Product, category, subcategory, and cost information
 
-![Database Schema](images/schema.png)
+![Database Schema](schema.png)
 
 ---
 
@@ -120,11 +120,11 @@ The project follows a **Star Schema** consisting of one fact table and two dimen
 
 The Customer Report provides a consolidated view of customer purchasing behavior, revenue contribution, order frequency, customer segmentation, and key customer metrics.
 
-![Customer Report](images/customer_report.png)
+![Customer Report](customer_report.png)
 
 
 #### Product Report
 
 The Product Report provides a consolidated view of product performance, revenue contribution, pricing metrics, product segmentation, and sales trends.
 
-![Product Report](images/product_report.png)
+![Product Report](product_report.png)
