@@ -20,45 +20,50 @@ This project analyzes a retail business selling Bikes, Accessories, and Clothing
 
 ### 1. Bikes dominate company revenue
 
-The Bikes category contributes **96.46%** of total revenue ($28.3M out of $29.4M), making it the primary revenue driver. Accessories (2.39%) and Clothing (1.16%) contribute only a small fraction of total sales.
+Bikes account for 96.46% of total revenue, dwarfing Accessories at 2.39% and Clothing at 1.16%. This likely reflects either a catalog heavily weighted toward Bikes or significantly stronger consumer demand for cycling products in the company's target markets. While Bikes should remain the core focus, this extreme concentration creates existential risk — a single shift in consumer preference, supply chain disruption, or competitive pressure on Bikes could collapse the entire revenue base, making category diversification an urgent strategic priority.
 
 ---
 
 ### 2. Mountain-200 is the best-performing product line
 
-All five highest revenue-generating products belong to the Mountain-200 family, collectively generating more than **$6.6M** in revenue, indicating exceptionally strong customer demand.
+All five top revenue-generating products belong to the Mountain-200 family, collectively generating over $6.6M — suggesting that customer demand is concentrated not just in the Bikes category but within a single product line inside that category. This likely reflects strong brand loyalty or superior product-market fit for the Mountain-200 specifically. While this is a significant strength to leverage through targeted marketing and inventory prioritization, it also deepens the concentration risk — if Mountain-200 faces a supply issue or loses competitive edge, the business loses its single biggest revenue driver overnight.
 
 ---
 
 ### 3. The United States is the largest market
 
-With **7,482 customers**, the United States represents approximately **40%** of the total customer base—more than double Australia's **3,591 customers**—highlighting significant geographic concentration.
+The United States accounts for 7,482 customers — 40% of the total base — more than double Australia's 3,591, revealing heavy geographic concentration in a single market. This likely reflects where the company's early marketing efforts were focused rather than an inherent limitation of other markets. While the US should remain a priority, over-dependence on one geography creates vulnerability to local economic downturns, regulatory changes, or tariffs — making measured investment in underpenetrated markets like Germany and Canada a logical risk mitigation strategy.
 
 ---
 
 ### 4. Customer retention presents a major opportunity
 
-Approximately **79%** of customers are classified as New Customers with less than 12 months of purchasing history, while only **9%** qualify as VIP customers, indicating strong opportunities to improve customer retention and loyalty.
+79% of customers are classified as New with less than 12 months of purchase history, while only 9% have reached VIP status — suggesting the business is highly effective at acquiring customers but struggles to retain them. This pattern likely reflects the nature of high-value infrequent purchases like Bikes, where natural repurchase cycles are long. However, VIP customers represent disproportionate revenue potential and losing them to competitors is costly — making a targeted loyalty program for existing customers a higher ROI investment than continued heavy spending on new customer acquisition.
 
 ---
 
 ### 5. Customers purchase infrequently but spend significantly
 
-Although the business processed **27,659 orders** across **18,484 customers**, the average customer places fewer than **1.5 orders**. However, the average order value exceeds **$1,000**, suggesting a business model driven by high-value purchases rather than frequent transactions.
+With fewer than 1.5 orders per customer on average but an order value exceeding $1,000, the business operates on a high-value low-frequency model. This likely reflects the nature of the product — Bikes are considered purchases, not impulse buys. While this model is sustainable, it means every lost customer represents over $1,000 in immediate lost revenue and potentially thousands more in lifetime value — making even modest improvements in retention disproportionately impactful on total revenue.
 
----
-
-### 6. Revenue peaked in 2013
-
-Annual revenue increased from **$43K** in 2010 to **$16.3M** in 2013 before dropping sharply in 2014. This pattern suggests either incomplete data for 2014 or a significant business change that warrants further investigation.
 
 ---
 
 ### 7. Average selling price has steadily declined
 
-Average selling price decreased from **$3,101** in 2010 to **$1,668** in 2014, potentially indicating a shift toward lower-priced products, increased discounting, or changes in product mix.
+Average selling price fell from $3,101 in 2010 to $1,668 in 2014 — a 46% decline over four years. This likely reflects a gradual shift in product mix toward lower-priced Bike models, increased promotional discounting to drive volume, or growing competition forcing price reductions. While higher volume at lower prices can sustain revenue short term, sustained price erosion without a corresponding increase in units sold will compress margins — making it critical to understand whether this trend reflects deliberate strategy or unmanaged competitive pressure.
 
 ---
+
+## Recommendations
+
+| Priority | Action | Evidence | Owner | Expected Impact | Metric to Track |
+|----------|--------|----------|-------|-----------------|-----------------|
+| P0 | Launch category diversification strategy | Bikes = 96.46% of revenue | Sales and Marketing Team | Reduce Bikes share below 80% in 12 months | Revenue share by category |
+| P1 | Launch customer loyalty program | 79% customers are New, AOV exceeds $1,000 | Marketing Team | Increase VIP share from 9% to 15% | VIP percentage, repeat purchase rate |
+| P2 | Double down on Mountain-200 and develop next hero product | All top 5 products are Mountain-200 variants generating $6.6M | Product and Sales Team | Grow second product line revenue by 20% | Mountain-200 share, second product line revenue |
+| P3 | Geographic diversification into Germany and Canada | US = 40% of customers, double any other market | Sales and Marketing Team | Grow Germany and Canada base by 25% | Customer distribution by country |
+
 
 ## Appendix
 
