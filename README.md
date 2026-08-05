@@ -9,10 +9,17 @@ This project analyzes a retail business selling Bikes, Accessories, and Clothing
 
 ## Business decisions
 
-- Which product categories contribute the most revenue and what percentage?
-- Which products are the highest and lowest performers?
-- The marketing team needs to understand how customers are distributed across VIP, Regular, and New segments:  because without this insight they will default to sending the same marketing to everyone, risking losing high value VIP customers who expect personalized engagement and represent a disproportionate share of revenue.
-- What is the average order value and monthly customer spending?
+1. Category Revenue Concentration
+The leadership team needs to decide whether to diversify investment across all product categories or continue concentrating resources on the dominant category — because without understanding which categories drive revenue and which are underperforming, the business cannot assess its exposure to concentration risk.
+
+2. Product Performance
+The sales team needs to decide whether to double down on top performing products and address or discontinue underperforming ones — because without knowing which products are driving and draining revenue, marketing and inventory resources will be misallocated.
+
+3. Customer Segmentation
+The marketing team needs to decide whether to treat each customer segment differently or apply the same strategy to all customers — because without understanding how customers are distributed across value segments, the business will default to generic marketing and fail to retain its most valuable customers.
+
+4. Average Order Value and Retention
+The marketing team needs to decide whether to invest in a customer retention program — because without understanding how much each customer is worth per order, the business cannot calculate whether retaining existing customers is more cost effective than continuously acquiring new ones.
 
 ---
 
