@@ -23,6 +23,23 @@ The marketing team needs to decide whether to invest in a customer retention pro
 
 ---
 
+## North Star Metrics
+
+- Total Sales by Category — measures how much revenue each product category generated in total. Helps identify which category is performing best and which is performing worst.
+
+- Customer Segment Distribution — divides all customers into VIP, Regular, and New based on how long they have been customers and how much they have spent. Helps identify whether customers are sticking with our products or just buying once and never coming back.
+
+- Average Order Value — measures on average how much each customer spends per order. Helps understand how much potential future revenue is lost every time a customer doesn't return.
+
+---
+
+
+## Executive Summary
+
+This retail business faces two critical strategic risks that threaten its long term viability — 96% of total revenue depends on a single product category and 79% of customers never return after their first purchase. Despite generating $29.4M in total sales with a healthy average order value of $1,061, the business is one market shift away from revenue collapse and is leaving significant lifetime value on the table by failing to retain high spending customers. Immediate action is required on two fronts — diversifying revenue across Accessories and Clothing before category concentration becomes irreversible, and launching a customer loyalty program to convert the large base of New customers into repeat buyers before competitors do.
+
+---
+
 ## Business Insights
 
 ### 1. Bikes dominate company revenue
@@ -56,7 +73,7 @@ With fewer than 1.5 orders per customer on average but an order value exceeding 
 
 ---
 
-### 7. Average selling price has steadily declined
+### 6. Average selling price has steadily declined
 
 Average selling price fell from $3,101 in 2010 to $1,668 in 2014, a 46% decline over four years. This likely reflects a gradual shift in product mix toward lower-priced Bike models, increased promotional discounting to drive volume, or growing competition forcing price reductions. While higher volume at lower prices can sustain revenue short term, sustained price erosion without a corresponding increase in units sold will compress margins, making it critical to understand whether this trend reflects deliberate strategy or unmanaged competitive pressure.
 
